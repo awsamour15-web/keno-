@@ -1,0 +1,6 @@
+{
+  "name": "Fast Keno",
+  "description": "Fast Keno casino game for Telegram Mini App with real-time odds, secure wallet, live draws, and daily leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
